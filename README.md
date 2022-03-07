@@ -19,6 +19,4 @@ Then we use a little customization to obtain the following result. The color of 
 ![alt text](https://github.com/maheshmv666/Assets/blob/main/colorclock/splash.png)
 ![alt text](https://github.com/maheshmv666/Assets/blob/main/colorclock/first.png)
 ![alt text](https://github.com/maheshmv666/Assets/blob/main/colorclock/second.png)
-#� �C�o�l�o�r�-�c�l�o�c�k�
-�
-�
+
